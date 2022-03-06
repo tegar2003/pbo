@@ -1,10 +1,8 @@
 package week1;
-import java.util.Scanner;
 
 public class Latihan2c {        
 
 	public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
              double hasil1, hasil2, d=5, t=10;
              double phi = 3.14;
              
